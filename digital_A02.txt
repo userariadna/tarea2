@@ -30,6 +30,82 @@ ICT companies often face complex issues related to corporate law and intellectua
 
 Information and communication technologies are increasing among different communities to obtain information about related problems, problems and their solutions. In the context of agricultural development, information and communication technologies have played an important role in developing countries. For example, mobile phones have narrowed the gap between farmers and purchasers. Now farmers communicate directly with customers to obtain product prices from the market. Mobile phones also provide farmers with a new way to get the latest weather information from the meteorological department before applying pesticides on the farm. ICT used by the health sector has well-known advantages. They can promote patient-centered healthcare, improve the quality of care, and educate health professionals and patients. However, the implementation of ICT is still difficult, involving changes at different levels: patients, healthcare providers, and healthcare organizations.
 
+Questions
+
+
+1.Why ICTs can play a considerable role in simplifying interactions with public authorities?
+This is due thanks to the digitization and automation of many processes.
+
+2.What is proportion of households with a ratio?
+This indicator refers to radio access by in scope households. The equipment should be in working order to expected to be returned to working order season.
+
+3.What is ICT?
+Is the combination and integration of computer work stations, telecommunications, electronics, networks and information media that affect individuals, firm and economy as a whole.
+
+4.Why ICT are important?
+The larger utilization of ICT has reduced the communication costs which ultimately facilitated the flow of knowledge and information. 
+
+5.What is Mobile broadband penetration? 
+Is defined as the number of active mobile broadband services subscriptions, divided by the number of residents in each country
+
+6.What could be a challenge for improvement in digital economy?
+One of the challenges associated to measuring digital economy is to develop new and more flexible approaches to meet the specific priorities and resources of G20 countries. 
+
+7. What is a crucial action in digital economy?
+Enable the collaboration between the public and private sector to plan and implement business surveys about innovation and the uptake of new digital technologies.
+
+8.How ICT helps in healthcare area?
+ICT helps the management to improve the patient safety and satisfaction, get updated to the latest technology, have a knowledge on population health and statistics and keep a note on the government mandates on track.
+
+9.What is a current problem of ICT in healthcare area?
+A current problem is about data privacy that affects millions of patients due that there is no respect by this law, so this data is given to insurance companies that use that for sales and having more clients. 
+
+
+10.What are two types for ICT tools? 
+There are two types which are Traditional and Modern. Traditional ICT tools such as Radio, News Paper, Books, Pamphlets,printed materials of any and the other is Modern ICT tools such as Computer,Tab,Mac, Digital gadgets are highly supporting during the pandemic period.
+
+11.  What could be an appropriate definition of Information Technology?
+Information Technology refers to the use of hardware and software for storage, retrieval, processing and distributing information of many kinds.
+
+12.What are the problems of information communication technology?
+•	Cost and Duplication.
+•	A decline in Social Activities.
+•	Brain Drain.
+•	Spread of Terrorism.
+•	Deceit and Kidnapping.
+•	Loss of Identity.
+
+12.What are some benefits of ICT?
+ICT enables economic growth by broadening the reach of technologies such as high-speed Internet, mobile broadband, and computing; expanding these technologies itself creates growth, and the fact that technologies make it easier for people to interact and make workers more productive creates additional benefits.
+
+
+13.Why Does ICT can impacts positively in pedagogy? 
+It is believed that specific uses of ICT can have positive effects on student achievement when ICTs are used appropriately to complement a teacher’s existing pedagogical.
+
+14.Why does ICTs can promote learner autonomy?
+Evidence exists that use of ICTs can increase learner autonomy for certain learners.
+
+15.Why policy makers are interested in ICT?
+Policy makers are particularly interested in the supply of scientists, engineers, and ICT experts because of their direct involvement in technical change and the ongoing digital transformation.
+
+16.What is a percentage of women’s graduated in ICT by 2015?
+However, women account for only 34% of all NSE & ICT graduates on average in 2015, with shares ranging from 26% in Korea to 41% in South Africa and Italy, and 42% in India.
+
+17.Which country contributed to the largest number of ICT in a good gender parity by 2015?
+India contributed the largest number of ICT graduates at nearly 585 000 as well as being the country closest to gender parity in this field.
+
+
+18.What are examples of recognized as ICT skills nowadays?
+1. Copying or moving a file or folder; 
+2. Using copy and paste tools to duplicate or move information within a document; 
+3. Sending e-mails with attached files (e.g. documents, pictures, a video); 
+
+19.What is the second largest country that contributes to scientific in the field of ICT?
+Indicators of “scientific excellence” focus on the contribution of economies to the top cited publications. For example, China has increased its production of highly-cited scientific output and so its share in the world’s top 10% most-cited publications from less than 4% in 2005 to 14% in 2016, making it the second largest contributor to “scientific excellence” after the United States (OECD, 2017a)
+
+20.Do you think that a growth of the digital economy impacts positively in human society?
+Yes, it impacts positively but in a less probability that negative fraction.
+
 
 REF:
 
